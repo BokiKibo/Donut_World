@@ -1,4 +1,3 @@
-# Donut_World
 <!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -12,7 +11,7 @@
 
 </style>
 <body>
-    <h1>Donut World</h1>
+    <h1 style = "color:red">Donut World</h1>
     <img src = "/uploads/2023/02/donut.png">
 </body>
 </html>
